@@ -1,3 +1,2 @@
 # myFirstProject
-for practice
-It is very interesting to learn about this website.
+I am a PhD student in Shanghai Jiaotong University and I am currently working on wave mechanics.
